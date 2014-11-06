@@ -1,0 +1,4 @@
+LegalHackathon
+==============
+
+for LegalHackathon.org
